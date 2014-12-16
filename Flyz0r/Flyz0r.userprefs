@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\GitHub\CamoStealth_Unity\Assets\Scripts\Exit.cs">
+    <Files>
+      <File FileName="..\GitHub\CamoStealth_Unity\Assets\Scripts\Player Modules\Player.cs" Line="64" Column="27" />
+      <File FileName="..\GitHub\CamoStealth_Unity\Assets\Scripts\Exit.cs" Line="50" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
